@@ -1,0 +1,607 @@
+"product_id","product_name","category","sub_category"
+335,"Road-650 Black, 60","Bikes","Road Bikes"
+606,"Road-750 Black, 52","Bikes","Road Bikes"
+605,"Road-750 Black, 48","Bikes","Road Bikes"
+604,"Road-750 Black, 44","Bikes","Road Bikes"
+600,"Mountain-500 Black, 52","Bikes","Mountain Bikes"
+599,"Mountain-500 Black, 48","Bikes","Mountain Bikes"
+598,"Mountain-500 Black, 44","Bikes","Mountain Bikes"
+597,"Mountain-500 Black, 42","Bikes","Mountain Bikes"
+596,"Mountain-500 Black, 40","Bikes","Mountain Bikes"
+595,"Mountain-500 Silver, 52","Bikes","Mountain Bikes"
+594,"Mountain-500 Silver, 48","Bikes","Mountain Bikes"
+593,"Mountain-500 Silver, 44","Bikes","Mountain Bikes"
+592,"Mountain-500 Silver, 42","Bikes","Mountain Bikes"
+591,"Mountain-500 Silver, 40","Bikes","Mountain Bikes"
+590,"Mountain-400-W Silver, 46","Bikes","Mountain Bikes"
+589,"Mountain-400-W Silver, 42","Bikes","Mountain Bikes"
+588,"Mountain-400-W Silver, 40","Bikes","Mountain Bikes"
+587,"Mountain-400-W Silver, 38","Bikes","Mountain Bikes"
+586,"Touring-3000 Blue, 50","Bikes","Touring Bikes"
+585,"Touring-3000 Blue, 44","Bikes","Touring Bikes"
+584,"Road-750 Black, 58","Bikes","Road Bikes"
+583,"Road-350-W Yellow, 48","Bikes","Road Bikes"
+582,"Road-350-W Yellow, 44","Bikes","Road Bikes"
+581,"Road-350-W Yellow, 42","Bikes","Road Bikes"
+580,"Road-350-W Yellow, 40","Bikes","Road Bikes"
+579,"Touring-2000 Blue, 54","Bikes","Touring Bikes"
+578,"Touring-2000 Blue, 50","Bikes","Touring Bikes"
+577,"Touring-2000 Blue, 46","Bikes","Touring Bikes"
+576,"Touring-1000 Blue, 60","Bikes","Touring Bikes"
+575,"Touring-1000 Blue, 54","Bikes","Touring Bikes"
+574,"Touring-1000 Blue, 50","Bikes","Touring Bikes"
+573,"Touring-1000 Blue, 46","Bikes","Touring Bikes"
+572,"Touring-3000 Yellow, 62","Bikes","Touring Bikes"
+571,"Touring-3000 Yellow, 58","Bikes","Touring Bikes"
+570,"Touring-3000 Yellow, 54","Bikes","Touring Bikes"
+569,"Touring-3000 Yellow, 50","Bikes","Touring Bikes"
+568,"Touring-3000 Yellow, 44","Bikes","Touring Bikes"
+567,"Touring-3000 Blue, 62","Bikes","Touring Bikes"
+566,"Touring-3000 Blue, 58","Bikes","Touring Bikes"
+565,"Touring-3000 Blue, 54","Bikes","Touring Bikes"
+564,"Touring-1000 Yellow, 60","Bikes","Touring Bikes"
+563,"Touring-1000 Yellow, 54","Bikes","Touring Bikes"
+562,"Touring-1000 Yellow, 50","Bikes","Touring Bikes"
+561,"Touring-1000 Yellow, 46","Bikes","Touring Bikes"
+560,"Touring-2000 Blue, 60","Bikes","Touring Bikes"
+390,"Road-550-W Yellow, 48","Bikes","Road Bikes"
+389,"Road-550-W Yellow, 48","Bikes","Road Bikes"
+388,"Road-550-W Yellow, 44","Bikes","Road Bikes"
+387,"Road-550-W Yellow, 44","Bikes","Road Bikes"
+386,"Road-550-W Yellow, 42","Bikes","Road Bikes"
+385,"Road-550-W Yellow, 42","Bikes","Road Bikes"
+384,"Road-550-W Yellow, 40","Bikes","Road Bikes"
+383,"Road-550-W Yellow, 40","Bikes","Road Bikes"
+382,"Road-550-W Yellow, 38","Bikes","Road Bikes"
+381,"Road-550-W Yellow, 38","Bikes","Road Bikes"
+380,"Road-250 Black, 58","Bikes","Road Bikes"
+379,"Road-250 Black, 58","Bikes","Road Bikes"
+378,"Road-250 Black, 52","Bikes","Road Bikes"
+377,"Road-250 Black, 52","Bikes","Road Bikes"
+376,"Road-250 Black, 48","Bikes","Road Bikes"
+375,"Road-250 Black, 48","Bikes","Road Bikes"
+374,"Road-250 Black, 44","Bikes","Road Bikes"
+373,"Road-250 Black, 44","Bikes","Road Bikes"
+372,"Road-250 Red, 58","Bikes","Road Bikes"
+371,"Road-250 Red, 58","Bikes","Road Bikes"
+370,"Road-250 Red, 52","Bikes","Road Bikes"
+369,"Road-250 Red, 48","Bikes","Road Bikes"
+368,"Road-250 Red, 44","Bikes","Road Bikes"
+367,"Mountain-300 Black, 48","Bikes","Mountain Bikes"
+366,"Mountain-300 Black, 44","Bikes","Mountain Bikes"
+365,"Mountain-300 Black, 40","Bikes","Mountain Bikes"
+364,"Mountain-300 Black, 38","Bikes","Mountain Bikes"
+363,"Mountain-200 Black, 46","Bikes","Mountain Bikes"
+362,"Mountain-200 Black, 46","Bikes","Mountain Bikes"
+361,"Mountain-200 Black, 42","Bikes","Mountain Bikes"
+360,"Mountain-200 Black, 42","Bikes","Mountain Bikes"
+359,"Mountain-200 Black, 38","Bikes","Mountain Bikes"
+358,"Mountain-200 Black, 38","Bikes","Mountain Bikes"
+357,"Mountain-200 Silver, 46","Bikes","Mountain Bikes"
+356,"Mountain-200 Silver, 46","Bikes","Mountain Bikes"
+355,"Mountain-200 Silver, 42","Bikes","Mountain Bikes"
+354,"Mountain-200 Silver, 42","Bikes","Mountain Bikes"
+353,"Mountain-200 Silver, 38","Bikes","Mountain Bikes"
+352,"Mountain-200 Silver, 38","Bikes","Mountain Bikes"
+351,"Mountain-100 Black, 48","Bikes","Mountain Bikes"
+350,"Mountain-100 Black, 44","Bikes","Mountain Bikes"
+349,"Mountain-100 Black, 42","Bikes","Mountain Bikes"
+348,"Mountain-100 Black, 38","Bikes","Mountain Bikes"
+347,"Mountain-100 Silver, 48","Bikes","Mountain Bikes"
+346,"Mountain-100 Silver, 44","Bikes","Mountain Bikes"
+345,"Mountain-100 Silver, 42","Bikes","Mountain Bikes"
+344,"Mountain-100 Silver, 38","Bikes","Mountain Bikes"
+343,"Road-650 Black, 52","Bikes","Road Bikes"
+342,"Road-650 Black, 52","Bikes","Road Bikes"
+341,"Road-650 Black, 48","Bikes","Road Bikes"
+340,"Road-650 Black, 48","Bikes","Road Bikes"
+339,"Road-650 Black, 44","Bikes","Road Bikes"
+338,"Road-650 Black, 44","Bikes","Road Bikes"
+337,"Road-650 Black, 62","Bikes","Road Bikes"
+336,"Road-650 Black, 62","Bikes","Road Bikes"
+334,"Road-650 Black, 60","Bikes","Road Bikes"
+333,"Road-650 Black, 58","Bikes","Road Bikes"
+332,"Road-650 Black, 58","Bikes","Road Bikes"
+331,"Road-650 Red, 52","Bikes","Road Bikes"
+330,"Road-650 Red, 52","Bikes","Road Bikes"
+329,"Road-650 Red, 48","Bikes","Road Bikes"
+328,"Road-650 Red, 48","Bikes","Road Bikes"
+327,"Road-650 Red, 44","Bikes","Road Bikes"
+326,"Road-650 Red, 44","Bikes","Road Bikes"
+325,"Road-650 Red, 62","Bikes","Road Bikes"
+324,"Road-650 Red, 62","Bikes","Road Bikes"
+323,"Road-650 Red, 60","Bikes","Road Bikes"
+322,"Road-650 Red, 60","Bikes","Road Bikes"
+321,"Road-650 Red, 58","Bikes","Road Bikes"
+320,"Road-650 Red, 58","Bikes","Road Bikes"
+319,"Road-450 Red, 52","Bikes","Road Bikes"
+318,"Road-450 Red, 48","Bikes","Road Bikes"
+317,"Road-450 Red, 44","Bikes","Road Bikes"
+316,"Road-450 Red, 60","Bikes","Road Bikes"
+315,"Road-450 Red, 58","Bikes","Road Bikes"
+314,"Road-150 Red, 56","Bikes","Road Bikes"
+313,"Road-150 Red, 52","Bikes","Road Bikes"
+312,"Road-150 Red, 48","Bikes","Road Bikes"
+311,"Road-150 Red, 44","Bikes","Road Bikes"
+310,"Road-150 Red, 62","Bikes","Road Bikes"
+531,"LL Mountain Frame - Black, 42","Components","Mountain Frames"
+210,"HL Road Frame - Black, 58","Components","Road Frames"
+211,"HL Road Frame - Red, 58","Components","Road Frames"
+238,"HL Road Frame - Red, 62","Components","Road Frames"
+239,"HL Road Frame - Red, 62","Components","Road Frames"
+240,"HL Road Frame - Red, 62","Components","Road Frames"
+241,"HL Road Frame - Red, 44","Components","Road Frames"
+242,"HL Road Frame - Red, 44","Components","Road Frames"
+243,"HL Road Frame - Red, 44","Components","Road Frames"
+244,"HL Road Frame - Red, 48","Components","Road Frames"
+245,"HL Road Frame - Red, 48","Components","Road Frames"
+246,"HL Road Frame - Red, 48","Components","Road Frames"
+247,"HL Road Frame - Red, 52","Components","Road Frames"
+248,"HL Road Frame - Red, 52","Components","Road Frames"
+249,"HL Road Frame - Red, 52","Components","Road Frames"
+250,"HL Road Frame - Red, 56","Components","Road Frames"
+251,"HL Road Frame - Red, 56","Components","Road Frames"
+252,"HL Road Frame - Red, 56","Components","Road Frames"
+253,"LL Road Frame - Black, 58","Components","Road Frames"
+254,"LL Road Frame - Black, 58","Components","Road Frames"
+255,"LL Road Frame - Black, 58","Components","Road Frames"
+256,"LL Road Frame - Black, 60","Components","Road Frames"
+257,"LL Road Frame - Black, 60","Components","Road Frames"
+258,"LL Road Frame - Black, 60","Components","Road Frames"
+259,"LL Road Frame - Black, 62","Components","Road Frames"
+260,"LL Road Frame - Black, 62","Components","Road Frames"
+261,"LL Road Frame - Black, 62","Components","Road Frames"
+262,"LL Road Frame - Red, 44","Components","Road Frames"
+263,"LL Road Frame - Red, 44","Components","Road Frames"
+264,"LL Road Frame - Red, 48","Components","Road Frames"
+265,"LL Road Frame - Red, 48","Components","Road Frames"
+266,"LL Road Frame - Red, 52","Components","Road Frames"
+267,"LL Road Frame - Red, 52","Components","Road Frames"
+268,"LL Road Frame - Red, 58","Components","Road Frames"
+269,"LL Road Frame - Red, 58","Components","Road Frames"
+270,"LL Road Frame - Red, 60","Components","Road Frames"
+271,"LL Road Frame - Red, 60","Components","Road Frames"
+272,"LL Road Frame - Red, 62","Components","Road Frames"
+273,"LL Road Frame - Red, 62","Components","Road Frames"
+274,"ML Road Frame - Red, 44","Components","Road Frames"
+275,"ML Road Frame - Red, 48","Components","Road Frames"
+276,"ML Road Frame - Red, 52","Components","Road Frames"
+277,"ML Road Frame - Red, 58","Components","Road Frames"
+278,"ML Road Frame - Red, 60","Components","Road Frames"
+279,"LL Road Frame - Black, 44","Components","Road Frames"
+280,"LL Road Frame - Black, 44","Components","Road Frames"
+281,"LL Road Frame - Black, 44","Components","Road Frames"
+282,"LL Road Frame - Black, 48","Components","Road Frames"
+283,"LL Road Frame - Black, 48","Components","Road Frames"
+284,"LL Road Frame - Black, 48","Components","Road Frames"
+285,"LL Road Frame - Black, 52","Components","Road Frames"
+286,"LL Road Frame - Black, 52","Components","Road Frames"
+287,"LL Road Frame - Black, 52","Components","Road Frames"
+288,"HL Mountain Frame - Silver, 42","Components","Mountain Frames"
+289,"HL Mountain Frame - Silver, 42","Components","Mountain Frames"
+290,"HL Mountain Frame - Silver, 42","Components","Mountain Frames"
+291,"HL Mountain Frame - Silver, 44","Components","Mountain Frames"
+292,"HL Mountain Frame - Silver, 48","Components","Mountain Frames"
+293,"HL Mountain Frame - Silver, 46","Components","Mountain Frames"
+294,"HL Mountain Frame - Silver, 46","Components","Mountain Frames"
+295,"HL Mountain Frame - Silver, 46","Components","Mountain Frames"
+296,"HL Mountain Frame - Black, 42","Components","Mountain Frames"
+297,"HL Mountain Frame - Black, 42","Components","Mountain Frames"
+298,"HL Mountain Frame - Black, 42","Components","Mountain Frames"
+299,"HL Mountain Frame - Black, 44","Components","Mountain Frames"
+300,"HL Mountain Frame - Black, 48","Components","Mountain Frames"
+301,"HL Mountain Frame - Black, 46","Components","Mountain Frames"
+302,"HL Mountain Frame - Black, 46","Components","Mountain Frames"
+303,"HL Mountain Frame - Black, 46","Components","Mountain Frames"
+304,"HL Mountain Frame - Black, 38","Components","Mountain Frames"
+305,"HL Mountain Frame - Black, 38","Components","Mountain Frames"
+306,"HL Mountain Frame - Black, 38","Components","Mountain Frames"
+307,"HL Mountain Frame - Silver, 38","Components","Mountain Frames"
+308,"HL Mountain Frame - Silver, 38","Components","Mountain Frames"
+309,"HL Mountain Frame - Silver, 38","Components","Mountain Frames"
+391,"LL Fork","Components","Forks"
+392,"ML Fork","Components","Forks"
+393,"HL Fork","Components","Forks"
+394,"LL Headset","Components","Headsets"
+395,"ML Headset","Components","Headsets"
+396,"HL Headset","Components","Headsets"
+397,"LL Mountain Handlebars","Components","Handlebars"
+398,"LL Mountain Handlebars","Components","Handlebars"
+399,"ML Mountain Handlebars","Components","Handlebars"
+400,"ML Mountain Handlebars","Components","Handlebars"
+401,"HL Mountain Handlebars","Components","Handlebars"
+402,"HL Mountain Handlebars","Components","Handlebars"
+403,"LL Road Handlebars","Components","Handlebars"
+404,"LL Road Handlebars","Components","Handlebars"
+405,"ML Road Handlebars","Components","Handlebars"
+406,"ML Road Handlebars","Components","Handlebars"
+407,"HL Road Handlebars","Components","Handlebars"
+408,"HL Road Handlebars","Components","Handlebars"
+409,"ML Mountain Frame - Black, 38","Components","Mountain Frames"
+410,"LL Mountain Front Wheel","Components","Wheels"
+411,"ML Mountain Front Wheel","Components","Wheels"
+412,"HL Mountain Front Wheel","Components","Wheels"
+413,"LL Road Front Wheel","Components","Wheels"
+414,"ML Road Front Wheel","Components","Wheels"
+415,"HL Road Front Wheel","Components","Wheels"
+416,"Touring Front Wheel","Components","Wheels"
+417,"ML Road Frame-W - Yellow, 38","Components","Road Frames"
+418,"ML Road Frame-W - Yellow, 38","Components","Road Frames"
+419,"LL Mountain Rear Wheel","Components","Wheels"
+420,"ML Mountain Rear Wheel","Components","Wheels"
+421,"HL Mountain Rear Wheel","Components","Wheels"
+422,"LL Road Rear Wheel","Components","Wheels"
+423,"ML Road Rear Wheel","Components","Wheels"
+424,"HL Road Rear Wheel","Components","Wheels"
+425,"Touring Rear Wheel","Components","Wheels"
+426,"ML Mountain Frame - Black, 40","Components","Mountain Frames"
+427,"ML Mountain Frame - Black, 44","Components","Mountain Frames"
+428,"ML Mountain Frame - Black, 48","Components","Mountain Frames"
+429,"ML Road Frame-W - Yellow, 40","Components","Road Frames"
+430,"ML Road Frame-W - Yellow, 40","Components","Road Frames"
+431,"ML Road Frame-W - Yellow, 42","Components","Road Frames"
+432,"ML Road Frame-W - Yellow, 42","Components","Road Frames"
+433,"ML Road Frame-W - Yellow, 44","Components","Road Frames"
+434,"ML Road Frame-W - Yellow, 44","Components","Road Frames"
+435,"ML Road Frame-W - Yellow, 48","Components","Road Frames"
+436,"ML Road Frame-W - Yellow, 48","Components","Road Frames"
+437,"HL Road Frame - Black, 62","Components","Road Frames"
+438,"HL Road Frame - Black, 62","Components","Road Frames"
+439,"HL Road Frame - Black, 44","Components","Road Frames"
+440,"HL Road Frame - Black, 44","Components","Road Frames"
+441,"HL Road Frame - Black, 48","Components","Road Frames"
+442,"HL Road Frame - Black, 48","Components","Road Frames"
+443,"HL Road Frame - Black, 52","Components","Road Frames"
+444,"HL Road Frame - Black, 52","Components","Road Frames"
+492,"HL Touring Frame - Yellow, 60","Components","Touring Frames"
+493,"LL Touring Frame - Yellow, 62","Components","Touring Frames"
+494,"HL Touring Frame - Yellow, 46","Components","Touring Frames"
+495,"HL Touring Frame - Yellow, 50","Components","Touring Frames"
+496,"HL Touring Frame - Yellow, 54","Components","Touring Frames"
+497,"HL Touring Frame - Blue, 46","Components","Touring Frames"
+498,"HL Touring Frame - Blue, 50","Components","Touring Frames"
+499,"HL Touring Frame - Blue, 54","Components","Touring Frames"
+500,"HL Touring Frame - Blue, 60","Components","Touring Frames"
+501,"Rear Derailleur","Components","Derailleurs"
+502,"LL Touring Frame - Blue, 50","Components","Touring Frames"
+503,"LL Touring Frame - Blue, 54","Components","Touring Frames"
+504,"LL Touring Frame - Blue, 58","Components","Touring Frames"
+505,"LL Touring Frame - Blue, 62","Components","Touring Frames"
+506,"LL Touring Frame - Yellow, 44","Components","Touring Frames"
+507,"LL Touring Frame - Yellow, 50","Components","Touring Frames"
+508,"LL Touring Frame - Yellow, 54","Components","Touring Frames"
+509,"LL Touring Frame - Yellow, 58","Components","Touring Frames"
+510,"LL Touring Frame - Blue, 44","Components","Touring Frames"
+511,"ML Mountain Frame-W - Silver, 40","Components","Mountain Frames"
+512,"ML Mountain Frame-W - Silver, 42","Components","Mountain Frames"
+513,"ML Mountain Frame-W - Silver, 46","Components","Mountain Frames"
+514,"Rear Brakes","Components","Brakes"
+515,"LL Mountain Seat/Saddle","Components","Saddles"
+516,"ML Mountain Seat/Saddle","Components","Saddles"
+517,"HL Mountain Seat/Saddle","Components","Saddles"
+518,"LL Road Seat/Saddle","Components","Saddles"
+519,"ML Road Seat/Saddle","Components","Saddles"
+520,"HL Road Seat/Saddle","Components","Saddles"
+521,"LL Touring Seat/Saddle","Components","Saddles"
+522,"ML Touring Seat/Saddle","Components","Saddles"
+523,"HL Touring Seat/Saddle","Components","Saddles"
+524,"LL Mountain Frame - Silver, 42","Components","Mountain Frames"
+525,"LL Mountain Frame - Silver, 44","Components","Mountain Frames"
+526,"LL Mountain Frame - Silver, 48","Components","Mountain Frames"
+527,"LL Mountain Frame - Silver, 52","Components","Mountain Frames"
+532,"LL Mountain Frame - Black, 44","Components","Mountain Frames"
+533,"LL Mountain Frame - Black, 48","Components","Mountain Frames"
+534,"LL Mountain Frame - Black, 52","Components","Mountain Frames"
+542,"LL Mountain Pedal","Components","Pedals"
+543,"ML Mountain Pedal","Components","Pedals"
+544,"HL Mountain Pedal","Components","Pedals"
+545,"LL Road Pedal","Components","Pedals"
+546,"ML Road Pedal","Components","Pedals"
+547,"HL Road Pedal","Components","Pedals"
+548,"Touring Pedal","Components","Pedals"
+549,"ML Mountain Frame-W - Silver, 38","Components","Mountain Frames"
+550,"LL Mountain Frame - Black, 40","Components","Mountain Frames"
+551,"LL Mountain Frame - Silver, 40","Components","Mountain Frames"
+552,"Front Derailleur","Components","Derailleurs"
+553,"LL Touring Handlebars","Components","Handlebars"
+554,"HL Touring Handlebars","Components","Handlebars"
+555,"Front Brakes","Components","Brakes"
+556,"LL Crankset","Components","Cranksets"
+557,"ML Crankset","Components","Cranksets"
+558,"HL Crankset","Components","Cranksets"
+559,"Chain","Components","Chains"
+601,"LL Bottom Bracket","Components","Bottom Brackets"
+602,"ML Bottom Bracket","Components","Bottom Brackets"
+603,"HL Bottom Bracket","Components","Bottom Brackets"
+463,"Half-Finger Gloves, S","Clothing","Gloves"
+464,"Half-Finger Gloves, M","Clothing","Gloves"
+465,"Half-Finger Gloves, M","Clothing","Gloves"
+466,"Half-Finger Gloves, L","Clothing","Gloves"
+467,"Half-Finger Gloves, L","Clothing","Gloves"
+468,"Full-Finger Gloves, S","Clothing","Gloves"
+469,"Full-Finger Gloves, M","Clothing","Gloves"
+470,"Full-Finger Gloves, L","Clothing","Gloves"
+471,"Classic Vest, S","Clothing","Vests"
+472,"Classic Vest, M","Clothing","Vests"
+473,"Classic Vest, L","Clothing","Vests"
+474,"Women's Mountain Shorts, S","Clothing","Shorts"
+475,"Women's Mountain Shorts, M","Clothing","Shorts"
+476,"Women's Mountain Shorts, L","Clothing","Shorts"
+223,"AWC Logo Cap","Clothing","Caps"
+224,"AWC Logo Cap","Clothing","Caps"
+225,"AWC Logo Cap","Clothing","Caps"
+445,"Men's Sports Shorts, S","Clothing","Shorts"
+481,"Racing Socks, M","Clothing","Socks"
+482,"Racing Socks, L","Clothing","Socks"
+235,"Long-Sleeve Logo Jersey, XL","Clothing","Jerseys"
+236,"Long-Sleeve Logo Jersey, XL","Clothing","Jerseys"
+218,"Mountain Bike Socks, M","Clothing","Socks"
+219,"Mountain Bike Socks, L","Clothing","Socks"
+232,"Long-Sleeve Logo Jersey, L","Clothing","Jerseys"
+488,"Short-Sleeve Classic Jersey, S","Clothing","Jerseys"
+489,"Short-Sleeve Classic Jersey, M","Clothing","Jerseys"
+490,"Short-Sleeve Classic Jersey, L","Clothing","Jerseys"
+226,"Long-Sleeve Logo Jersey, S","Clothing","Jerseys"
+491,"Short-Sleeve Classic Jersey, XL","Clothing","Jerseys"
+227,"Long-Sleeve Logo Jersey, S","Clothing","Jerseys"
+228,"Long-Sleeve Logo Jersey, S","Clothing","Jerseys"
+229,"Long-Sleeve Logo Jersey, M","Clothing","Jerseys"
+230,"Long-Sleeve Logo Jersey, M","Clothing","Jerseys"
+231,"Long-Sleeve Logo Jersey, M","Clothing","Jerseys"
+237,"Long-Sleeve Logo Jersey, XL","Clothing","Jerseys"
+233,"Long-Sleeve Logo Jersey, L","Clothing","Jerseys"
+234,"Long-Sleeve Logo Jersey, L","Clothing","Jerseys"
+453,"Men's Sports Shorts, M","Clothing","Shorts"
+454,"Men's Sports Shorts, L","Clothing","Shorts"
+455,"Men's Sports Shorts, XL","Clothing","Shorts"
+456,"Women's Tights, S","Clothing","Tights"
+457,"Women's Tights, M","Clothing","Tights"
+458,"Women's Tights, L","Clothing","Tights"
+459,"Men's Bib-Shorts, S","Clothing","Bib-Shorts"
+460,"Men's Bib-Shorts, M","Clothing","Bib-Shorts"
+461,"Men's Bib-Shorts, L","Clothing","Bib-Shorts"
+462,"Half-Finger Gloves, S","Clothing","Gloves"
+487,"Hydration Pack - 70 oz.","Accessories","Hydration Packs"
+212,"Sport-100 Helmet, Red","Accessories","Helmets"
+213,"Sport-100 Helmet, Red","Accessories","Helmets"
+214,"Sport-100 Helmet, Red","Accessories","Helmets"
+215,"Sport-100 Helmet, Black","Accessories","Helmets"
+216,"Sport-100 Helmet, Black","Accessories","Helmets"
+528,"Mountain Tire Tube","Accessories","Tires and Tubes"
+529,"Road Tire Tube","Accessories","Tires and Tubes"
+530,"Touring Tire Tube","Accessories","Tires and Tubes"
+217,"Sport-100 Helmet, Black","Accessories","Helmets"
+220,"Sport-100 Helmet, Blue","Accessories","Helmets"
+535,"LL Mountain Tire","Accessories","Tires and Tubes"
+536,"ML Mountain Tire","Accessories","Tires and Tubes"
+537,"HL Mountain Tire","Accessories","Tires and Tubes"
+538,"LL Road Tire","Accessories","Tires and Tubes"
+539,"ML Road Tire","Accessories","Tires and Tubes"
+540,"HL Road Tire","Accessories","Tires and Tubes"
+541,"Touring Tire","Accessories","Tires and Tubes"
+221,"Sport-100 Helmet, Blue","Accessories","Helmets"
+222,"Sport-100 Helmet, Blue","Accessories","Helmets"
+446,"Touring-Panniers, Large","Accessories","Panniers"
+447,"Cable Lock","Accessories","Locks"
+448,"Minipump","Accessories","Pumps"
+449,"Mountain Pump","Accessories","Pumps"
+450,"Taillights - Battery-Powered","Accessories","Lights"
+451,"Headlights - Dual-Beam","Accessories","Lights"
+452,"Headlights - Weatherproof","Accessories","Lights"
+477,"Water Bottle - 30 oz.","Accessories","Bottles and Cages"
+478,"Mountain Bottle Cage","Accessories","Bottles and Cages"
+479,"Road Bottle Cage","Accessories","Bottles and Cages"
+480,"Patch Kit/8 Patches","Accessories","Tires and Tubes"
+483,"Hitch Rack - 4-Bike","Accessories","Bike Racks"
+484,"Bike Wash - Dissolver","Accessories","Cleaners"
+485,"Fender Set - Mountain","Accessories","Fenders"
+486,"All-Purpose Bike Stand","Accessories","Bike Stands"
+6,"LL Crankarm",NULL,NULL
+5,"Blade",NULL,NULL
+4,"Headset Ball Bearings",NULL,NULL
+3,"BB Ball Bearing",NULL,NULL
+2,"Bearing Ball",NULL,NULL
+45,"Thin-Jam Hex Nut 6",NULL,NULL
+44,"Thin-Jam Hex Nut 5",NULL,NULL
+43,"Thin-Jam Hex Nut 16",NULL,NULL
+42,"Thin-Jam Hex Nut 15",NULL,NULL
+41,"Thin-Jam Hex Nut 2",NULL,NULL
+40,"Thin-Jam Hex Nut 1",NULL,NULL
+39,"Thin-Jam Hex Nut 10",NULL,NULL
+38,"Thin-Jam Hex Nut 9",NULL,NULL
+37,"HL Grip Tape",NULL,NULL
+36,"ML Grip Tape",NULL,NULL
+35,"LL Grip Tape",NULL,NULL
+34,"Guide Pulley",NULL,NULL
+33,"Front Derailleur Linkage",NULL,NULL
+32,"Front Derailleur Cage",NULL,NULL
+31,"Fork Crown",NULL,NULL
+30,"Flat Washer 7",NULL,NULL
+127,"Lock Nut 13",NULL,NULL
+128,"Lock Nut 1",NULL,NULL
+129,"Lock Nut 10",NULL,NULL
+130,"Lock Nut 11",NULL,NULL
+131,"Lock Nut 2",NULL,NULL
+132,"Lock Nut 20",NULL,NULL
+133,"Lock Nut 21",NULL,NULL
+134,"Lock Nut 3",NULL,NULL
+135,"Lock Nut 14",NULL,NULL
+136,"Lock Nut 15",NULL,NULL
+137,"Lock Nut 4",NULL,NULL
+138,"Lock Nut 19",NULL,NULL
+139,"Lock Nut 18",NULL,NULL
+140,"Lock Ring",NULL,NULL
+141,"Lower Head Race",NULL,NULL
+142,"Lock Washer 4",NULL,NULL
+143,"Lock Washer 5",NULL,NULL
+144,"Lock Washer 10",NULL,NULL
+145,"Lock Washer 6",NULL,NULL
+146,"Lock Washer 13",NULL,NULL
+147,"Lock Washer 8",NULL,NULL
+148,"Lock Washer 1",NULL,NULL
+149,"Lock Washer 7",NULL,NULL
+150,"Lock Washer 12",NULL,NULL
+151,"Lock Washer 2",NULL,NULL
+152,"Lock Washer 9",NULL,NULL
+153,"Lock Washer 3",NULL,NULL
+154,"Lock Washer 11",NULL,NULL
+155,"Metal Angle",NULL,NULL
+156,"Metal Bar 1",NULL,NULL
+157,"Metal Bar 2",NULL,NULL
+158,"Metal Plate 2",NULL,NULL
+159,"Metal Plate 1",NULL,NULL
+160,"Metal Plate 3",NULL,NULL
+161,"Metal Sheet 2",NULL,NULL
+162,"Metal Sheet 3",NULL,NULL
+163,"Metal Sheet 7",NULL,NULL
+164,"Metal Sheet 4",NULL,NULL
+165,"Metal Sheet 5",NULL,NULL
+166,"Metal Sheet 6",NULL,NULL
+167,"Metal Sheet 1",NULL,NULL
+168,"Metal Tread Plate",NULL,NULL
+169,"LL Nipple",NULL,NULL
+170,"HL Nipple",NULL,NULL
+171,"Paint - Black",NULL,NULL
+172,"Paint - Red",NULL,NULL
+173,"Paint - Silver",NULL,NULL
+174,"Paint - Blue",NULL,NULL
+175,"Paint - Yellow",NULL,NULL
+176,"Pinch Bolt",NULL,NULL
+177,"Cup-Shaped Race",NULL,NULL
+178,"Cone-Shaped Race",NULL,NULL
+179,"Reflector",NULL,NULL
+180,"LL Mountain Rim",NULL,NULL
+181,"ML Mountain Rim",NULL,NULL
+182,"HL Mountain Rim",NULL,NULL
+183,"LL Road Rim",NULL,NULL
+184,"ML Road Rim",NULL,NULL
+185,"HL Road Rim",NULL,NULL
+186,"Touring Rim",NULL,NULL
+187,"LL Mountain Seat Assembly",NULL,NULL
+188,"ML Mountain Seat Assembly",NULL,NULL
+189,"HL Mountain Seat Assembly",NULL,NULL
+190,"LL Road Seat Assembly",NULL,NULL
+191,"ML Road Seat Assembly",NULL,NULL
+192,"HL Road Seat Assembly",NULL,NULL
+193,"LL Touring Seat Assembly",NULL,NULL
+194,"ML Touring Seat Assembly",NULL,NULL
+195,"HL Touring Seat Assembly",NULL,NULL
+196,"LL Spindle/Axle",NULL,NULL
+197,"HL Spindle/Axle",NULL,NULL
+198,"LL Shell",NULL,NULL
+199,"HL Shell",NULL,NULL
+200,"Spokes",NULL,NULL
+201,"Seat Lug",NULL,NULL
+202,"Stem",NULL,NULL
+203,"Seat Post",NULL,NULL
+204,"Steerer",NULL,NULL
+205,"Seat Stays",NULL,NULL
+206,"Seat Tube",NULL,NULL
+207,"Top Tube",NULL,NULL
+208,"Tension Pulley",NULL,NULL
+209,"Rear Derailleur Cage",NULL,NULL
+29,"Flat Washer 5",NULL,NULL
+28,"Flat Washer 8",NULL,NULL
+27,"Flat Washer 3",NULL,NULL
+26,"Flat Washer 4",NULL,NULL
+25,"Flat Washer 9",NULL,NULL
+24,"Flat Washer 2",NULL,NULL
+23,"Flat Washer 6",NULL,NULL
+1,"Adjustable Race",NULL,NULL
+22,"Flat Washer 1",NULL,NULL
+21,"Freewheel",NULL,NULL
+20,"Fork End",NULL,NULL
+19,"Touring End Caps",NULL,NULL
+18,"Road End Caps",NULL,NULL
+17,"Mountain End Caps",NULL,NULL
+16,"Down Tube",NULL,NULL
+15,"Decal 2",NULL,NULL
+126,"Lock Nut 12",NULL,NULL
+14,"Decal 1",NULL,NULL
+125,"Lock Nut 23",NULL,NULL
+124,"Lock Nut 22",NULL,NULL
+123,"Lock Nut 9",NULL,NULL
+121,"Lock Nut 7",NULL,NULL
+122,"Lock Nut 8",NULL,NULL
+120,"Lock Nut 17",NULL,NULL
+119,"Lock Nut 16",NULL,NULL
+118,"Lock Nut 6",NULL,NULL
+117,"Lock Nut 5",NULL,NULL
+116,"Thin-Jam Lock Nut 11",NULL,NULL
+115,"Thin-Jam Lock Nut 12",NULL,NULL
+114,"Thin-Jam Lock Nut 8",NULL,NULL
+113,"Thin-Jam Lock Nut 7",NULL,NULL
+112,"Thin-Jam Lock Nut 14",NULL,NULL
+111,"Thin-Jam Lock Nut 13",NULL,NULL
+110,"Thin-Jam Lock Nut 4",NULL,NULL
+109,"Thin-Jam Lock Nut 3",NULL,NULL
+108,"Thin-Jam Lock Nut 6",NULL,NULL
+107,"Thin-Jam Lock Nut 5",NULL,NULL
+106,"Thin-Jam Lock Nut 16",NULL,NULL
+105,"Thin-Jam Lock Nut 15",NULL,NULL
+104,"Thin-Jam Lock Nut 2",NULL,NULL
+103,"Thin-Jam Lock Nut 1",NULL,NULL
+102,"Thin-Jam Lock Nut 10",NULL,NULL
+101,"Thin-Jam Lock Nut 9",NULL,NULL
+100,"Internal Lock Washer 2",NULL,NULL
+99,"Internal Lock Washer 8",NULL,NULL
+98,"Internal Lock Washer 1",NULL,NULL
+97,"Internal Lock Washer 10",NULL,NULL
+96,"Internal Lock Washer 6",NULL,NULL
+95,"Internal Lock Washer 7",NULL,NULL
+94,"Internal Lock Washer 5",NULL,NULL
+93,"Internal Lock Washer 9",NULL,NULL
+92,"Internal Lock Washer 4",NULL,NULL
+91,"Internal Lock Washer 3",NULL,NULL
+90,"External Lock Washer 2",NULL,NULL
+89,"External Lock Washer 8",NULL,NULL
+88,"External Lock Washer 1",NULL,NULL
+87,"External Lock Washer 6",NULL,NULL
+86,"External Lock Washer 7",NULL,NULL
+85,"External Lock Washer 5",NULL,NULL
+84,"External Lock Washer 9",NULL,NULL
+83,"External Lock Washer 4",NULL,NULL
+82,"External Lock Washer 3",NULL,NULL
+81,"Keyed Washer",NULL,NULL
+80,"HL Hub",NULL,NULL
+79,"LL Hub",NULL,NULL
+78,"Head Tube",NULL,NULL
+77,"Handlebar Tube",NULL,NULL
+76,"Hex Nut 19",NULL,NULL
+75,"Hex Nut 18",NULL,NULL
+74,"Hex Nut 4",NULL,NULL
+73,"Hex Nut 15",NULL,NULL
+72,"Hex Nut 14",NULL,NULL
+71,"Hex Nut 3",NULL,NULL
+70,"Hex Nut 21",NULL,NULL
+69,"Hex Nut 20",NULL,NULL
+68,"Hex Nut 2",NULL,NULL
+67,"Hex Nut 11",NULL,NULL
+66,"Hex Nut 10",NULL,NULL
+65,"Hex Nut 1",NULL,NULL
+64,"Hex Nut 13",NULL,NULL
+63,"Hex Nut 12",NULL,NULL
+62,"Hex Nut 23",NULL,NULL
+61,"Hex Nut 22",NULL,NULL
+60,"Hex Nut 9",NULL,NULL
+59,"Hex Nut 8",NULL,NULL
+58,"Hex Nut 7",NULL,NULL
+57,"Hex Nut 17",NULL,NULL
+56,"Hex Nut 16",NULL,NULL
+55,"Hex Nut 6",NULL,NULL
+54,"Hex Nut 5",NULL,NULL
+53,"Thin-Jam Hex Nut 11",NULL,NULL
+52,"Thin-Jam Hex Nut 12",NULL,NULL
+51,"Thin-Jam Hex Nut 8",NULL,NULL
+50,"Thin-Jam Hex Nut 7",NULL,NULL
+49,"Thin-Jam Hex Nut 14",NULL,NULL
+48,"Thin-Jam Hex Nut 13",NULL,NULL
+47,"Thin-Jam Hex Nut 4",NULL,NULL
+46,"Thin-Jam Hex Nut 3",NULL,NULL
+13,"Chain Stays",NULL,NULL
+12,"Crown Race",NULL,NULL
+11,"Chainring",NULL,NULL
+10,"Chainring Nut",NULL,NULL
+9,"Chainring Bolts",NULL,NULL
+8,"HL Crankarm",NULL,NULL
+7,"ML Crankarm",NULL,NULL
